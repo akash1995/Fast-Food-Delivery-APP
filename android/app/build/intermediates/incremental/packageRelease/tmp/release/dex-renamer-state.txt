@@ -1,0 +1,7 @@
+#Sat Jun 11 15:37:41 IST 2022
+base.1=/Users/akash/Applications/React Projects/React Native Template/fastFood/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/Users/akash/Applications/React Projects/React Native Template/fastFood/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

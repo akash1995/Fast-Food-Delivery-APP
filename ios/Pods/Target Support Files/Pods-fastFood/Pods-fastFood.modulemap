@@ -1,0 +1,6 @@
+module Pods_fastFood {
+  umbrella header "Pods-fastFood-umbrella.h"
+
+  export *
+  module * { export * }
+}
